@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  align-content: space-around;
+  border: 1px solid black;
+  box-shadow: none;
+  background-color: beige;
+}
+h1 {
+  font-size: 100px;
+}
+
+@import "service/reboot";
+
